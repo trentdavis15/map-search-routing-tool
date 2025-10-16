@@ -18,14 +18,8 @@ The program models cities and connections as a weighted graph and determines the
 ## Technologies Used
 - **Language:** Java  
 - **Concepts:** Data Structures, Algorithms, Object-Oriented Programming  
-- **Tools:** VS Code, JDK  
+- **Tools:** VS Code, JDK
 
 ---
-
-
-## Author
-Developed by **Trent Davis**
-
-Template provided by instructor
-
-University of Wisconsin–La Crosse
+*Note: This project was developed as part of a course assignment at the University of Wisconsin–La Crosse. 
+The source code is provided for academic and portfolio demonstration purposes only.*
