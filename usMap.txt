@@ -1,0 +1,115 @@
+36
+0 Vancouver
+1 Seattle
+2 Portland
+3 San Francisco
+4 Los Angeles
+5 Calgary
+6 Las Vegas
+7 Salt Lake City
+8 Phoenix
+9 Helena
+10 Denver
+11 Santa Fe
+12 El Paso
+13 Winnipeg
+14 Omaha
+15 Oklahoma City
+16 Duluth
+17 Kansas City
+18 Dallas
+19 Houston
+20 Little Rock
+21 Saint Louis
+22 Chicago
+23 Sault St. Marie
+24 New Orleans
+25 Nashville
+26 Atlanta
+27 Toronto
+28 Pittsburgh
+29 Raleigh
+30 Montreal
+31 New York City
+32 Charleston
+33 Washington DC
+34 Miami
+35 Boston
+0 1 1
+0 5 3
+1 5 4
+1 2 1
+1 9 6
+2 7 6
+2 3 5
+3 7 5
+3 4 3
+4 6 2
+4 8 3
+4 12 6
+5 9 4
+5 13 6
+7 9 3
+7 10 3
+7 6 3
+9 13 4
+9 16 6
+9 14 5
+9 10 4
+10 14 4
+10 17 4
+10 15 4
+10 11 2
+10 8 5
+8 11 3
+8 12 3
+11 15 3
+11 12 2
+12 15 5
+12 18 4
+12 19 6
+13 23 6
+13 16 4
+16 23 3
+16 27 6
+16 22 3
+16 14 2
+14 22 4
+14 17 1
+17 21 2
+17 15 2
+15 20 2
+15 18 2
+18 20 2
+18 19 1
+19 24 2
+21 22 2
+21 28 5
+21 25 2
+21 20 2
+20 25 3
+20 24 3
+22 27 4
+22 28 3
+23 30 5
+23 27 2
+24 26 4
+24 34 6
+25 28 4
+25 29 3
+25 26 1
+27 30 3
+27 28 2
+28 31 2
+28 33 2
+28 29 2
+30 35 2
+30 31 3
+35 31 2
+31 33 2
+33 29 2
+29 26 2
+29 32 2
+26 32 2
+26 34 5
+32 34 4

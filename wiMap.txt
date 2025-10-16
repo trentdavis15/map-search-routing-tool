@@ -1,0 +1,11 @@
+5
+0 La Crosse
+1 Madison
+2 Milwaukee
+3 Eau Claire
+4 Green Bay
+0 1 3
+0 3 2
+1 2 2
+3 4 5
+2 4 4
